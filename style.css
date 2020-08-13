@@ -1,0 +1,182 @@
+*{  margin:0;
+	padding:0;
+	text-align: center;
+	font-family:sans-serif;
+}
+
+
+.sectop{
+		background: url(banar.jpeg);
+	    background-repeat: no-repeat;
+	    background-size: cover;
+	    margin: auto;
+	    text-align: center;
+	    height: 600px;
+}
+		
+		}
+
+
+nav ul li{
+		list-style-type:none;
+		padding:20px;
+	}
+
+
+ul{
+	display: flex;
+    padding-bottom: 60px;
+    margin-left: 64px;
+    padding-top: 40px;
+    list-style: none;
+
+}
+.nn{
+
+
+	margin-left: 164px
+}
+
+
+h1{
+	color:#fafafa;
+	padding-bottom:60px;
+	font-size: 85px;
+}
+
+.nb{
+	text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    /*border: 0.1px solid #bbb;*/
+
+}
+
+p{
+	color:#fefefe;
+	align-content: center;
+    color: #fefefe;
+    padding-top: 20px;
+}
+
+
+.nb:hover {
+	background:yellow;
+	color:#000;
+}
+
+.si{
+
+
+	color: #ffffff05;
+    display: block;
+    font-size: 43px;
+    padding: 70px;
+
+}
+
+a{
+
+	color:#fff;
+}
+
+.si a:hover{
+
+	background:orange;
+	color: #000;
+	border-radius:5px;
+
+}
+
+
+.secbutton{
+
+	background: gray;
+	
+	height: 450px;
+	background: #000000bd;
+}
+
+
+
+.lsec{
+
+
+	width:40%;
+	
+	height: 100%;
+}
+
+
+.lsec img{
+
+
+	margin-top: 30px;
+}
+
+
+
+.rsec{
+
+	
+	width: 59%;
+	float:right;
+	overflow: hidden;
+
+
+	
+}
+
+h2{
+
+	text-align: left;
+	color: #fff;
+}
+
+.abpra{
+
+	color: #7A7A7A;
+
+
+}
+
+
+.info{
+
+
+	width: 50%;
+	
+	float: left;
+	padding-top: 42px;
+}
+
+
+.but li{
+
+
+
+	margin-top: 10px;
+
+
+
+
+}
+
+button{
+
+
+	       padding: 15px;
+   		  margin-top: 35px;
+   		  background:#cabfbf40
+
+}
+
+button:hover{
+		background:#fff;
+		color: black;
+
+}
